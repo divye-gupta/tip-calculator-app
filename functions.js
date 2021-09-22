@@ -2,12 +2,6 @@
 
 let totalTip,tipAmount,nPeople,billAmount,tipPercent;
 
-  console.log(totalTip);
-  console.log(nPeople);
-  console.log(tipAmount);
-  console.log(billAmount);
-  console.log(tipPercent);
-
 function displayValues(){
     tipAmount = (tipPercent*billAmount)/100;
     nPeople= document.getElementById("Number-of-people").value;
