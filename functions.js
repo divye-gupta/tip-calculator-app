@@ -18,27 +18,27 @@ function displayValues(){
 
 function fbtn5() {
     tipPercent = document.getElementById("btn5").value;   
-    console.log("5%");       //function takes value from button in html and assign it to variable x         // puts variable value to <p> tag
+    console.log("5%");       
 }
 
 function fbtn10() {
     tipPercent = document.getElementById("btn10").value; 
-    console.log("btn10");         //function takes value from button in html and assign it to variable x       // puts variable value to <p> tag
+    console.log("btn10");         
 }
 
 function fbtn15() {
     tipPercent = document.getElementById("btn15").value;  
-    console.log("btn15");        //function takes value from button in html and assign it to variable x      // puts variable value to <p> tag
+    console.log("btn15");        
 }
 
 function fbtn25() {
     tipPercent = document.getElementById("btn25").value; 
-    console.log("btn25");         //function takes value from button in html and assign it to variable x      // puts variable value to <p> tag
+    console.log("btn25");         
 }
 
 function fbtn50() {
     tipPercent = document.getElementById("btn50").value;  
-    console.log("btn50");       //function takes value from button in html and assign it to variable x        
+    console.log("btn50");       
 }
 
 function fCustomBill(bill){
